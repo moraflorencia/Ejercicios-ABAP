@@ -17,6 +17,6 @@ La idea es documentar y compartir el progreso, desde programas simples como el c
 ## 🛠️ Tecnologías utilizadas
 
 - **ABAP (Advanced Business Application Programming)**  
-- **SAP GUI ** para la ejecución de los programas.   
+- **SAP GUI** para la ejecución de los programas.   
 
 ✨ Este repositorio es un espacio de práctica y aprendizaje, por lo que el código puede evolucionar y mejorar con el tiempo.  
